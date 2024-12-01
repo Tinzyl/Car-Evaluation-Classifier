@@ -28,7 +28,7 @@ A lightweight Flask-based web application for predicting the quality of cars usi
 ## 🚀 Quick Start
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/car-evaluation-classifier.git
+   git clone https://github.com/Tinzyl/car-evaluation-classifier.git
    cd car-evaluation-classifier
 2. Install dependencies:
    pip install -r requirements.txt
