@@ -38,7 +38,7 @@ A lightweight Flask-based web application for predicting the quality of cars usi
 
 ---
 
-## ✨ How It Works
+## ⚙️ How It Works
 
 - **Data Preprocessing**: Reads and label-encodes the car dataset.
 - **Model Selection**: Choose from pre-defined algorithms (Logistic Regression, Decision Tree, etc.).
